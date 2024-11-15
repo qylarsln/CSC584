@@ -48,4 +48,6 @@ class Student {
     public int getStudId()      { return studId; }
     public int getPart()        { return part; }
     public double getScore()     { return score; }
+    
+    public double totalScore;
 }
