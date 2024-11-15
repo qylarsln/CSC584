@@ -50,4 +50,6 @@ class Student {
     public double getScore()     { return score; }
     
     public double totalScore;
+    public int age;
+    public String noIC;
 }
