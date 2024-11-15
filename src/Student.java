@@ -53,5 +53,7 @@ class Student {
         return status;
     }
     
-    
+    public double totalScore;
+    public int age;
+    public String noIC;
 }
