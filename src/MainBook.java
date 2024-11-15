@@ -94,5 +94,11 @@ public class MainBook
         for (int i = 0; i < bookList.size(); i++)
             System.out.println(bookList.get(i));
         
+        
+        int i = 10;
+        int e = 20;
+        int t = i +e;
+        System.out.println(t);
+        
       
     }}
