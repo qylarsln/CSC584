@@ -48,6 +48,10 @@ class Student {
     public int getStudId()      { return studId; }
     public int getPart()        { return part; }
     public double getScore()     { return score; }
+
+    public String getStatus() {
+        return status;
+    }
     
     public double totalScore;
     public int age;
